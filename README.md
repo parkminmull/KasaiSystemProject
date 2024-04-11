@@ -6,10 +6,9 @@ Raspberry pi,AWSを活用した火災検知システム
 ## 概要動画
 [![Video Label](http://img.youtube.com/vi/odktV89QTxg/0.jpg)](https://youtu.be/odktV89QTxg)
 
-### 自己紹介
+### 🙋🏼自己紹介
 
-• 作品番号: 東京PI007
-
+• 作品番号: 東京PI007<br>
 • 学校: HAL東京 情報処理学科 2年生 
 
 • 氏名: PARK SEWON
