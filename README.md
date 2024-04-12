@@ -1,5 +1,8 @@
 # 🔥火災検知システム
-就職作品プレゼンテーション
+就職作品プレゼンテーション<br>
+<img width="1036" alt="スクリーンショット 2024-04-12 21 25 25" src="https://github.com/parkminmull/KasaiSystemProject/assets/114851426/ceb693f8-741a-424a-a62d-db5e147e7853"><br>
+
+
 Raspberry pi,AWSを活用した火災検知システム
 
 
