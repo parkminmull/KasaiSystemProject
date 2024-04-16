@@ -63,7 +63,7 @@ AWS でのリアルタイムデータのモニタリングと携帯SMS通知<br>
 ![실행화면](https://github.com/parkminmull/kasaisystemproject/assets/114851426/9df8ba34-7c02-423a-a740-81c2f237fa86)
 
 
-## 7. 将来の展望
+## 7. 今後は
 
 • API Gatewayを利用したリアルタイムAPIの開発<br>
 • AWS EC2を用いたウェブアプリケーションでのデータモニタリングと警報<br>
